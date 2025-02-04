@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a Technical Lead and Full Stack Developer with over 10 years of experience crafting robust, scalable solutions. I specialize in architecting systems that seamlessly blend technical excellence with exceptional user experience.
+I'm a Technical Lead and Full Stack Developer with over 10 years of experience crafting robust, scalable solutions. I specialize in architecting systems that seamlessly blend technical depth with exceptional user experience.
 
 ### What I Do 💡
 
