@@ -20,10 +20,10 @@ const technicalSkills = {
   systemArchitecture: ['System Design', 'Event-Driven', 'Microservices', 'API Design'],
   backend: ['Node.js', 'Go', 'Python', 'REST', 'GraphQL', 'WebSockets'],
   frontend: ['TypeScript', 'React', 'Next.js', 'Angular'],
+  mobile: ['Flutter', 'React Native', 'Ionic'],
   stateManagement: ['Redux', 'Zustand', 'React Query', 'NgRx'],
   cloud: ['AWS', 'Google Cloud Platform', 'Firebase', 'Supabase', 'Cloudflare'],
   databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'Neo4j'],
-  mobile: ['Flutter', 'React Native', 'Ionic'],
   mapping: ['Leaflet', 'MapLibre', 'OSRM', 'Google Maps', 'Mapbox'],
   devOps: ['Docker', 'Git', 'CI/CD'],
   uiLibraries: ['Material UI', 'Tailwind CSS', 'Ant Design']
