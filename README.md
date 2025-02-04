@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a Technical Lead and Full Stack Developer with over 10 years of experience crafting robust, scalable solutions. I specialize in architecting systems that seamlessly blend technical excellence with exceptional user experience. From real-time fleet management platforms to Olympic-scale navigation systems, I bring a comprehensive approach to every project.
+I'm a Technical Lead and Full Stack Developer with over 10 years of experience crafting robust, scalable solutions. I specialize in architecting systems that seamlessly blend technical excellence with exceptional user experience.
 
 ### What I Do 💡
 
